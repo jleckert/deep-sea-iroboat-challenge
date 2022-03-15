@@ -1,0 +1,36 @@
+mixing requirements paths and Python paths together as follows:
+	'requirements.txt' - '/home/koja/.local/share/virtualenvs/lambda_functions--iauPo0K/bin/python'
+
+working on license summary...
+
+handling 'requirements.txt' with '/home/koja/.local/share/virtualenvs/lambda_functions--iauPo0K/bin/python' ...
+
+Apache-2.0
+	'boto3' by 'Amazon Web Services' ('https://github.com/boto/boto3')
+	'botocore' by 'Amazon Web Services' ('https://github.com/boto/botocore')
+	'python-dateutil' by 'Gustavo Niemeyer <gustavo@niemeyer.net>' ('https://github.com/dateutil/dateutil')
+	's3transfer' by 'Amazon Web Services <kyknapp1@gmail.com>' ('https://github.com/boto/s3transfer')
+
+BSD-3-clause
+	'joblib' by 'Gael Varoquaux <gael.varoquaux@normalesup.org>' ('https://joblib.readthedocs.io')
+	'numpy' by 'Travis E. Oliphant et al.' ('https://www.numpy.org')
+	'pandas' by 'The Pandas Development Team <pandas-dev@python.org>' ('https://pandas.pydata.org')
+	'pycryptodome' by 'Helder Eijs <helderijs@gmail.com>' ('https://www.pycryptodome.org')
+	'python-dotenv' by 'Saurabh Kumar <me+github@saurabh-kumar.com>' ('https://github.com/theskumar/python-dotenv')
+	'scikit-learn' by None ('http://scikit-learn.org')
+	'scipy' by None ('https://www.scipy.org')
+	'threadpoolctl' by 'Thomas Moreau <thomas.moreau.2010@gmail.com>' ('https://github.com/joblib/threadpoolctl')
+
+MIT
+	'jmespath' by 'James Saryerwinnie <js@jamesls.com>' ('https://github.com/jmespath/jmespath.py')
+	'pytz' by 'Stuart Bishop <stuart@stuartbishop.net>' ('http://pythonhosted.org/pytz')
+	'six' by 'Benjamin Peterson <benjamin@python.org>' ('https://github.com/benjaminp/six')
+	'urllib3' by 'Andrey Petrov <andrey.petrov@shazow.net>' ('https://urllib3.readthedocs.io/')
+
+Unknown (assumed commercial)
+	'sklearn' by 'UNKNOWN <UNKNOWN>' ('https://pypi.python.org/pypi/scikit-learn/')
+
+
+working on THIRDPARTYLICENSES...
+
+Done; see output at 'THIRDPARTYLICENSES'

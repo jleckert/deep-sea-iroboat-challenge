@@ -1,0 +1,16 @@
+{
+    "end_coords": [
+        109.205189,
+        109.266947,
+        12.298296,
+        12.232455
+    ],
+    "intermediate_goals": [],
+    "hour_scale": 1,
+    "constrain_radius": 5,
+    "precision_level": 1,
+    "map": [
+        10000,
+        5000
+    ]
+}

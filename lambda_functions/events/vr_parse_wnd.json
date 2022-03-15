@@ -1,0 +1,22 @@
+{
+    "Records": [
+      {
+        "EventSource": "aws:sns",
+        "EventVersion": "1.0",
+        "EventSubscriptionArn": "arn:aws:sns:eu-west-1: 380438412770:snsAddWinds: 8658304b-ce83-4b34-b987-11e48a5833d3",
+        "Sns": {
+          "Type": "Notification",
+          "MessageId": "9cfe7c88-9afc-5641-83bb-2b40f431ca1f",
+          "TopicArn": "arn:aws:sns:eu-west-1: 380438412770:snsAddWinds",
+          "Subject": "Amazon S3 Notification",
+          "Message": "{                    \"Records\": [                    {                        \"eventVersion\": \"2.1\",                        \"eventSource\": \"aws:s3\",                        \"awsRegion\": \"eu-west-1\",                        \"eventTime\": \"2020-09-01T15:45:15.323Z\",                        \"eventName\": \"ObjectCreated:Put\",                        \"userIdentity\": {                            \"principalId\": \"A3J7UN5HN91E2Q\"                        },                        \"requestParameters\": {                            \"sourceIPAddress\": \"34.252.99.54\"                        },                        \"responseElements\": {                            \"x-amz-request-id\": \"8CD9168C516A818D\",                            \"x-amz-id-2\": \"4LI/PyMs6kwvVgTkmvELWdlngCIfbtn8wsTGcmXxQNArxRSZp7UsCKsMyr/+n7tf4SZuQToDLcdAx4fnbVs5JYKGKqGBv5kh\"                        },                        \"s3\": {                            \"s3SchemaVersion\": \"1.0\",                            \"configurationId\": \"vr-windfiles-event\",                            \"bucket\": {                                \"name\": \"static.virtualregatta.com\",                                \"ownerIdentity\": {                                    \"principalId\": \"A3J7UN5HN91E2Q\"                                },                                \"arn\": \"arn:aws:s3:::static.virtualregatta.com\"                            },                            \"object\": {                                \"key\": \"winds/live/20211004/00/063.wnd\",                                \"size\": 130320,                                \"eTag\": \"d475bb25910d9a140dfdafc85c27901d\",                                \"sequencer\": \"005F4E6C8BBCE447DD\"                            }                        }                    }                ]            }",
+          "Timestamp": "2020-09-01T15: 45: 17.300Z",
+          "SignatureVersion": "1",
+          "Signature": "ZRLXJEzFKb6lKemN+DRjxBnc93jUZqFqTFLY/qsxNvnoEM1BvbNq7mwtwgnFqMG3DVVJTEs5wjCErppji //jOh9/1XrSKgscIOh+JC82iK+q0BUdPY2fdjTahOwJoBHUf2Ml3L75WXisM0QOMX5VPAHzUTrLFxOvHZdVGBQQy1DqwmZMEa0eFLyNAvmhSbPc8HwIkgmT8Q5cEXBYpzpiYbSF83yXgEB4IR5iGBlTk9nvzmMnp/4ofw+TCmx/RIudjuqFPDLZq/y2jfY+mzThCTAucBjnMpEOSxreRzu1qtQm0P6kP1dmnuemDgJBZK3BnLS/IL3vGzupJ4oREKPOfg==",
+          "SigningCertUrl": "https://sns.eu-west-1.amazonaws.com/SimpleNotificationService-a86cb10b4e1f29c941702d737128f7b6.pem",
+          "UnsubscribeUrl": "https://sns.eu-west-1.amazonaws.com/?Action=Unsubscribe&SubscriptionArn=arn:aws:sns:eu-west-1:380438412770:snsAddWinds:8658304b-ce83-4b34-b987-11e48a5833d3",
+          "MessageAttributes": {}
+        }
+      }
+    ]
+  }

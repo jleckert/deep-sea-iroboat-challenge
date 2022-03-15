@@ -1,0 +1,24 @@
+{
+    "end_coords": [
+        -4.254621,
+        -1.184727,
+        47.824413,
+        44.817106
+    ],
+    "intermediate_goals": [
+        [
+            -66.280513,
+            -58.282422,
+            -54.753339,
+            -63.594742
+        ]
+    ],
+    "hour_scale": 12,
+    "constrain_radius": 20,
+    "precision_level": 1,
+    "map": [
+        18771,
+        9385
+    ],
+    "ratio_delta_hour": 3
+}

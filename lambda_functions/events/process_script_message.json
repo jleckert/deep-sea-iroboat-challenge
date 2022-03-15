@@ -1,0 +1,20 @@
+{
+    "Records": [
+        {
+            "kinesis": {
+                "partitionKey": "partitionKey-03",
+                "kinesisSchemaVersion": "1.0",
+                "data": "eyJ1c2VySWQiOiAiNTljMGQ1MDNiMzk1YjI5MmVkNjIwZmE0IiwgInN0YXRlIjogImFycml2ZWQiLCAicG9zIjogeyJsYXQiOiAtMzQuMTgxNzQsICJsb24iOiAxOC40MzI5NX0sICJoZWFkaW5nIjogNzguNzg5MDQsICJzcGVlZCI6IDAsICJ0d3MiOiAzMC42NDY4NCwgInR3YSI6IC0xNDUsICJzYWlsIjogMTYsICJib2F0IjogeyJuYW1lIjogIkltb2NhIiwgImxhYmVsIjogIkltb2NhIiwgInBvbGFyX2lkIjogNCwgImFzc2V0QnVuZGxlIjogInZlbmRlZWdsb2JlIiwgInR5cGUiOiAiaW1vY2EiLCAiaWR4IjogMywgInNraW5faWQiOiAiaW1vY2FfcGFydG5lcl90aWdyb3UiLCAibG9ja2VkIjogdHJ1ZSwgImRpc3BsYXkiOiB7ImNvbG9yMSI6ICIjMWU0YTAyIiwgImNvbG9yMiI6ICIjMWU0YTAyIn19LCAiYnJhbmRpbmciOiB7Im5hbWUiOiAiVmlydHVhbCBSZWdhdHRhIiwgImlkIjogIlZSIn0sICJ0eXBlIjogInRvcCIsICJsYXN0Q2FsY0RhdGUiOiAxNjM1OTU1MDg4NTE5LCAiZGlzcGxheU5hbWUiOiAiQXJ5bGxhIC8gSU5DLUJVUkVBVSBWQUxMRUUiLCAidHNMYXN0RW5naW5lIjogMTYzNTk1NTIwMDAwMCwgImZvbGxvd2VkIjogdHJ1ZSwgImxlZyI6IDEsICJyYWNlSWQiOiAiNDk0In0=",
+                "sequenceNumber": "49545115243490985018280067714973144582180062593244200961",
+                "approximateArrivalTimestamp": 1428537600
+            },
+            "eventSource": "aws:kinesis",
+            "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+            "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+            "eventVersion": "1.0",
+            "eventName": "aws:kinesis:record",
+            "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+            "awsRegion": "eu-west-2"
+        }
+    ]
+}
