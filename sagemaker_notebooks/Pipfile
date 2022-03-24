@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+boto3 = "*"
+matplotlib = "*"
+numpy = "*"
+pandas = "*"
+scikit-learn = "*"
+smdebug = "*"
+tensorboard = "*"
+tensorflow = "*"
+jupyter = "*"
+cython = "*"
+pyshp = "*"
+six = "*"
+cartopy = "*"
+
+[requires]
+python_version = "3.8"

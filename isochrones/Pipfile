@@ -1,0 +1,32 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+autopep8 = "*"
+jupyter = "*"
+third-party-license-file-generator = "*"
+
+[packages]
+geopandas = "*"
+matplotlib = "*"
+numpy = "*"
+pandas = "*"
+pyshp = "*"
+shapely = "*"
+netcdf4 = "*"
+coloredlogs = "*"
+isochrones = {editable = true, path = "."}
+bresenham = "*"
+flask = "*"
+python-dotenv = "*"
+astropy = "*"
+"ai.cs" = "*"
+boto3 = "*"
+pymysql = "*"
+sqlalchemy = "*"
+
+[requires]
+python_version = "3.8"
