@@ -1,0 +1,57 @@
+mixing requirements paths and Python paths together as follows:
+	'requirements.txt' - '/home/koja/.local/share/virtualenvs/isochrones-VcQ0fgrw/bin/python'
+
+working on license summary...
+
+handling 'requirements.txt' with '/home/koja/.local/share/virtualenvs/isochrones-VcQ0fgrw/bin/python' ...
+
+Apache-2.0
+	'boto3' by 'Amazon Web Services' ('https://github.com/boto/boto3')
+	'botocore' by 'Amazon Web Services' ('https://github.com/boto/botocore')
+	'packaging' by 'Donald Stufft and individual contributors <donald@stufft.io>' ('https://github.com/pypa/packaging')
+	'python-dateutil' by 'Gustavo Niemeyer <gustavo@niemeyer.net>' ('https://github.com/dateutil/dateutil')
+	's3transfer' by 'Amazon Web Services <kyknapp1@gmail.com>' ('https://github.com/boto/s3transfer')
+
+BSD-3-clause
+	'astropy' by 'The Astropy Developers <astropy.team@gmail.com>' ('http://astropy.org')
+	'click' by 'Armin Ronacher <armin.ronacher@active-4.com>' ('https://palletsprojects.com/p/click/')
+	'click-plugins' by 'Kevin Wurster, Sean Gillies <wursterk@gmail.com, sean.gillies@gmail.com>' ('https://github.com/click-contrib/click-plugins')
+	'cligj' by 'Sean Gillies <sean@mapbox.com>' ('https://github.com/mapbox/cligj')
+	'cycler' by 'Thomas A Caswell <matplotlib-users@python.org>' ('https://github.com/matplotlib/cycler')
+	'geopandas' by 'GeoPandas contributors <kjordahl@alum.mit.edu>' ('http://geopandas.org')
+	'itsdangerous' by 'Armin Ronacher <armin.ronacher@active-4.com>' ('https://palletsprojects.com/p/itsdangerous/')
+	'kiwisolver' by 'The Nucleic Development Team <sccolbert@gmail.com>' ('https://github.com/nucleic/kiwi')
+	'numpy' by 'Travis E. Oliphant et al.' ('https://www.numpy.org')
+	'pandas' by 'The Pandas Development Team <pandas-dev@python.org>' ('https://pandas.pydata.org')
+	'pyerfa' by 'The PyERFA Developers' ('https://github.com/liberfa/pyerfa')
+	'python-dotenv' by 'Saurabh Kumar <me+github@saurabh-kumar.com>' ('https://github.com/theskumar/python-dotenv')
+
+MIT
+	'PyYAML' by 'Kirill Simonov <xi@resolvent.net>' ('https://pyyaml.org/')
+	'ai.cs' by 'Alexey Isavnin <alexey.isavnin@gmail.com>' ('https://bitbucket.org/isavnin/ai.cs')
+	'attrs' by 'Hynek Schlawack <hs@ox.cx>' ('https://www.attrs.org/')
+	'bresenham' by 'Petr Viktorin <encukou@gmail.com>' ('https://github.com/encukou/bresenham')
+	'cftime' by 'Jeff Whitaker <jeffrey.s.whitaker@noaa.gov>' (None)
+	'coloredlogs' by 'Peter Odding <peter@peterodding.com>' ('https://coloredlogs.readthedocs.io')
+	'fonttools' by 'Just van Rossum <just@letterror.com>' ('http://github.com/fonttools/fonttools')
+	'greenlet' by 'Alexey Borzenkov <snaury@gmail.com>' ('https://greenlet.readthedocs.io/')
+	'humanfriendly' by 'Peter Odding <peter@peterodding.com>' ('https://humanfriendly.readthedocs.io')
+	'jmespath' by 'James Saryerwinnie <js@jamesls.com>' ('https://github.com/jmespath/jmespath.py')
+	'munch' by 'Rotem Yaari <vmalloc@gmail.com>' ('https://github.com/Infinidat/munch')
+	'pyparsing' by 'Paul McGuire <ptmcg.gm+pyparsing@gmail.com>' ('https://github.com/pyparsing/pyparsing/')
+	'pyproj' by 'Jeff Whitaker <jeffrey.s.whitaker@noaa.gov>' ('https://github.com/pyproj4/pyproj')
+	'pyshp' by 'Joel Lawhead, Karim Bahgat <jlawhead@geospatialpython.com>' ('https://github.com/GeospatialPython/pyshp')
+	'pytz' by 'Stuart Bishop <stuart@stuartbishop.net>' ('http://pythonhosted.org/pytz')
+	'six' by 'Benjamin Peterson <benjamin@python.org>' ('https://github.com/benjaminp/six')
+	'urllib3' by 'Andrey Petrov <andrey.petrov@shazow.net>' ('https://urllib3.readthedocs.io/')
+
+MPL-2.0
+	'certifi' by 'Kenneth Reitz <me@kennethreitz.com>' ('https://certifiio.readthedocs.io/en/latest/')
+
+Python-2.0
+	'matplotlib' by 'John D. Hunter, Michael Droettboom <matplotlib-users@python.org>' ('https://matplotlib.org')
+
+
+working on THIRDPARTYLICENSES...
+
+Done; see output at 'THIRDPARTYLICENSES'

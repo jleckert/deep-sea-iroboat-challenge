@@ -1,0 +1,23 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+autopep8 = "*"
+pylint = "*"
+pytest = "*"
+third-party-license-file-generator = "*"
+ipykernel = "*"
+
+[packages]
+boto3 = "*"
+pandas = "*"
+python-dotenv = "*"
+sklearn = "*"
+pycryptodome = "*"
+coloredlogs = "*"
+pika = "*"
+
+[requires]
+python_version = "3.9"
